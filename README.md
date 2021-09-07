@@ -1,4 +1,5 @@
-### 👋🏻 Hi there, I'm Neil Christian Go - aka Nichigo
+### 👋🏻 Hi there, I'm Neil Christian Go
+    also known as Nichigo and Neo
 
 ### 👀 I’m Interested in:
     Sports, Anime, Cars, Motorcycles, Movies, Programming, Basically Anything That's Awesome
