@@ -1,13 +1,14 @@
+### Hi there, I'm Neil Christian Go - aka Nichigo
+
 - 👋🏻 Hi, I’m @Nichigo-GitHub
-- 👀 I’m Interested in Sports, Anime, Cars, Motorcycles, Movies, Coding, Basically Anything That's Awesome
+- 👀 I’m Interested in Sports, Anime, Cars, Motorcycles, Movies, Programming, Basically Anything That's Awesome
 - 📖 I’m Currently Learning "Advanced Communication", "Software Engineering", and "Application Development And Emerging Technology"
 - 🤝 I’m Looking to Collaborate on: Nothing at The Moment
-- 📫 How to Reach Me: cyberneo12161999@gmail.com
 
-### Connect with me:
+### 📫 How to Reach Me:
 <img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 <img align="left" alt="nichigo.here | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 <br />
 
