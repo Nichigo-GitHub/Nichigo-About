@@ -4,9 +4,9 @@
 ### 👀 I’m Interested in:
     Sports, Anime, Cars, Motorcycles, Movies, Programming, Basically Anything That's Awesome
 ### 📖 I’m Currently Learning:
-    "Advanced Communication", "Software Engineering", and "Application Development And Emerging Technology"
-### 🤝 I’m Looking to Collaborate on:
-    Nothing at The Moment
+    Software Engineering and Application Development
+### 🔭 I’m Looking to Expand my Knoweldge on:
+    Computer Vision and Machine Learning
 
 ### 📫 How to Reach Me:
 [<img align="left" alt="Nichigo | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
