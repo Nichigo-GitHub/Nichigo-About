@@ -1,8 +1,5 @@
 ### 👋🏻 Hi there, I'm Neil Christian Go
     also known as Nichigo and Neo
-
-### 👀 I’m Interested in:
-    Sports, Anime, Cars, Motorcycles, Movies, Programming, Basically Anything That's Awesome
 ### 📖 I’m Currently Learning:
     Software Engineering and Application Development
 ### 🔭 I’m Looking to Expand my Knoweldge on:
